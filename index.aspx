@@ -13,6 +13,7 @@
     <p>se puede editar aqui</p>
     <p>edicion en paralelo</p>
     <p>Intento 2</p>
+        <p>Hoooooola po</p>
         <img src="" alt="" />
     </div>
     </form>
