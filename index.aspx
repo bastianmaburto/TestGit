@@ -14,6 +14,7 @@
     <p>edicion en paralelo</p>
     <p>Intento 2</p>
         <p>Hoooooola po</p>
+        <input type="text" />
         <img src="" alt="" />
     </div>
     </form>
