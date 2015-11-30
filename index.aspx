@@ -12,6 +12,7 @@
     <input type="button" value="Boton"/>
     <p>se puede editar aqui</p>
     <p>edicion en paralelo</p>
+    <p>Intento 2</p>
         <img src="" alt="" />
     </div>
     </form>
