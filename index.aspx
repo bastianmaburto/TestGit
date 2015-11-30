@@ -9,14 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    <input type="button" value="Boton"/>
-    <p>se puede editar aqui</p>
-    <p>edicion en paralelo</p>
-    <p>Intento 2</p>
-        <p>Hoooooola po</p>
-        <input type="text" />
-        <img src="" alt="" />
-        <p>ahora intento 3</p>
+        
     </div>
     </form>
 </body>
