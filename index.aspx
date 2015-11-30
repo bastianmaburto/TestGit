@@ -11,6 +11,7 @@
     <div>
     <input type="button" value="Boton"/>
     <p>se puede editar aqui</p>
+    <p>edicion en paralelo</p>
         <img src="" alt="" />
     </div>
     </form>
